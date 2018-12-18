@@ -1,10 +1,6 @@
 {
-  "owner": "pmnazari",
-  "name": "test-feed",
-  "ruleset": {
-    "parents": [
-      ["pmnazari/test-feed2"],
-      ["pmnazari/test-feed3", "pmnazari/test-feed4"]
-    ]
-  }
+  "parents": [
+    ["pmnazari/test-feed2"],
+    ["pmnazari/test-feed3", "pmnazari/test-feed4"]
+  ]
 }
