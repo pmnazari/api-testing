@@ -1,4 +1,5 @@
 {
+  "applicationId": "Twitter",
   "parents": [
     ["pmnazari/test-feed2"],
     ["pmnazari/test-feed3", "pmnazari/test-feed4"]
